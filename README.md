@@ -13,7 +13,7 @@ This is the package repository for adding __[ArcGIS Maps SDK for Swift](https://
 
 That's it. ArcGIS Maps SDK for Swift has been integrated into your project as a Swift Package. 
 
-Try out some of the tutorials.
+Try out some of the [tutorials](https://developers.arcgis.com/swift/) or check out the [samples](https://github.com/Esri/arcgis-maps-sdk-swift-samples). In addition, check out the [toolkit](https://github.com/Esri/arcgis-maps-toolkit-swift) for some components that will simplify your iOS app development.
 
 ### Requirements
 - Xcode 14.0 or newer
