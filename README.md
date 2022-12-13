@@ -26,18 +26,14 @@ Try out some of the [tutorials](https://developers.arcgis.com/swift/) or check o
 Find a bug or want to request a new feature? Please let us know by submitting an issue.
 
 ### Licensing
-Copyright 2017 - 2022 Esri
+COPYRIGHT © 2022 Esri
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+All rights reserved under the copyright laws of the United States and applicable international laws, treaties, and conventions.
 
-   http://www.apache.org/licenses/LICENSE-2.0
+This material is licensed for use under the Esri Master License Agreement (MLA), and is bound by the terms of that agreement. You may redistribute and use this code without modification, provided you adhere to the terms of the MLA and include this copyright notice.
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+See use restrictions at [legal/EULA.txt](Legal/EULA.txt)
 
-A copy of the license is available in the repository's [LICENSE](/LICENSE?raw=1) file.
+For additional information, contact: Environmental Systems Research Institute, Inc. Attn: Contracts and Legal Services Department 380 New York Street Redlands, California, USA 92373 USA
+
+email: contracts@esri.com
