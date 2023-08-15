@@ -26,7 +26,7 @@ Try out some of the [tutorials](https://developers.arcgis.com/swift/) or check o
 Find a bug or want to request a new feature? Please let us know by submitting an issue.
 
 ### Licensing
-COPYRIGHT © 2022 Esri
+COPYRIGHT © 2023 Esri
 
 All rights reserved under the copyright laws of the United States and applicable international laws, treaties, and conventions.
 
