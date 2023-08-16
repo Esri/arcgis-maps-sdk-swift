@@ -16,7 +16,7 @@ That's it. ArcGIS Maps SDK for Swift has been integrated into your project as a 
 Try out some of the [tutorials](https://developers.arcgis.com/swift/) or check out the [samples](https://github.com/Esri/arcgis-maps-sdk-swift-samples). In addition, check out the [toolkit](https://github.com/Esri/arcgis-maps-sdk-swift-toolkit) for some components that will simplify your iOS app development.
 
 ### Requirements
-- Xcode 14.0 or newer
+- Xcode 14.1 or newer
 
 ### Resources
 - [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/)
@@ -26,7 +26,7 @@ Try out some of the [tutorials](https://developers.arcgis.com/swift/) or check o
 Find a bug or want to request a new feature? Please let us know by submitting an issue.
 
 ### Licensing
-COPYRIGHT © 2022 Esri
+COPYRIGHT © 2023 Esri
 
 All rights reserved under the copyright laws of the United States and applicable international laws, treaties, and conventions.
 
