@@ -1,7 +1,7 @@
 ﻿Master Agreement (E204SW)
 
-Revised November 1, 2022
-IMPORTANT—READ CAREFULLY
+Revised July 19, 2023
+IMPORTANT - READ CAREFULLY
 
 Unless superseded by a signed license agreement between you and Esri, Esri is willing to provide Esri Offerings and Services to you only if you accept all terms and conditions contained in this Agreement as the sole and final agreement of the parties regarding your acquisition of these Esri Offerings and Services. Please read the terms and conditions carefully. You may not use the Esri Offerings unless you agree to the terms and conditions of the Agreement. Your access and use of Esri Offerings, or Services, constitutes your acceptance of the terms and conditions of this Agreement. If you do not agree, contact your local sales representative prior to making your purchase.
 
@@ -39,23 +39,22 @@ e. "Deployment License" means a license to incorporate ArcGIS Runtime components
 f. "Deployment Server License" means a license to use Software under a Server License for all uses permitted in this Agreement and as described in the Documentation.
 g. "Development Server License" means a license to use Software under a Server License only to build and test Value-Added Applications as described in the Documentation.
 h. "Development Use" means the right to install and use Products to build and test Value-Added Applications as described in the Documentation.
-i. "Dual Use License" means the right to install Software on a desktop computer and use it simultaneously with either a personal digital assistant (PDA) or handheld mobile device as long as the Software is only used by a single individual at any time.
-j. "Failover License" means a license to install Software on redundant systems for failover operations, but the redundantly installed Software may be operational only during the period the primary site is nonoperational. Except for system maintenance and updating of databases, the redundant Software installation(s) will remain dormant while the primary site (or any other redundant site) is operational.
-k. "Named User(s)" is Customer's employee, agent, consultant, or contractor to whom Customer has assigned a unique, secure login credential (identity) enabling access to a Product that requires such identity in order to access identity-managed capabilities within a Product for Customer's exclusive benefit. For educational use, Named Users may include registered students.
-l. "Named User Credential(s)" means an individual person's login and associated password enabling that person to access and use Products.
-m. "Named User License" means the right for a single Named User to use a specific Esri Offering.
-n. "Online Services Subscription" means a limited-term subscription conveying the right for one or more Named Users to access and use Online Services.
-o. "Redistribution License" means a license to reproduce and distribute Software provided that
+i. "Failover License" means a license to install Software on redundant systems for failover operations, but the redundantly installed Software may be operational only during the period the primary site is nonoperational. Except for system maintenance and updating of databases, the redundant Software installation(s) will remain dormant while the primary site (or any other redundant site) is operational.
+j. "Named User(s)" is Customer's employee, agent, consultant, or contractor to whom Customer has assigned a unique, secure login credential (identity) enabling access to a Product that requires such identity in order to access identity-managed capabilities within a Product for Customer's exclusive benefit. For educational use, Named Users may include registered students.
+k. "Named User Credential(s)" means an individual person's login and associated password enabling that person to access and use Products.
+l. "Named User License" means the right for a single Named User to use a specific Esri Offering.
+m. "Online Services Subscription" means a limited-term subscription conveying the right for one or more Named Users to access and use Online Services.
+n. "Redistribution License" means a license to reproduce and distribute Software provided that
 
     1. Customer reproduces and distributes the Software in its entirety;
     2. A license agreement that protects the Software to the same extent as this Agreement accompanies each copy of the Software, and the recipient agrees to the terms and conditions of the license agreement;
     3. Customer reproduces all copyright and trademark attributions and notices; and
     4. Customer does not charge a fee to others for the use of the Software.
 
-p. "Server License" means a license to install and use Software on any computer being used as a server. Server Licenses may be subject to a limited number of server cores or distributed deployment on multiple servers as described in the Ordering Documents or Documentation. If the Software description includes failover use rights, each Server License includes a Failover License.
-q. "Sharing Tools" means publishing capabilities included with Customer's authorized use of Online Services or ArcGIS Enterprise that allow Customer to make Customer Content and Value-Added Applications available to third parties or Anonymous Users.
-r. "Single Use License" means a license for a single authorized end user to install and use Software on a single computer. The single authorized end user may also install a second copy for the end user's exclusive use on a second computer as long as only 1 copy of Software is in use at any time. No other end user may use Software under the same license at the same time for any other purpose.
-s. "Staging Server License" means a license to use Software under a Server License to build and test Value-Added Applications and map caches; conduct user acceptance, performance, and load testing of other third-party software; stage new commercial data updates; and conduct training activities as described in the Documentation. Customer may use Value-Added Applications and map caches with Development and Deployment Server Licenses.
+o. "Server License" means a license to install and use Software on any computer being used as a server. Server Licenses may be subject to a limited number of server cores or distributed deployment on multiple servers as described in the Ordering Documents or Documentation. If the Software description includes failover use rights, each Server License includes a Failover License.
+p. "Sharing Tools" means publishing capabilities included with Customer's authorized use of Online Services or ArcGIS Enterprise that allow Customer to make Customer Content and Value-Added Applications available to third parties or Anonymous Users.
+q. "Single Use License" means a license for a single authorized end user to install and use Software on a single computer. The single authorized end user may also install a second copy for the end user's exclusive use on a second computer as long as only 1 copy of Software is in use at any time. No other end user may use Software under the same license at the same time for any other purpose.
+r. "Staging Server License" means a license to use Software under a Server License to build and test Value-Added Applications and map caches; conduct user acceptance, performance, and load testing of other third-party software; stage new commercial data updates; and conduct training activities as described in the Documentation. Customer may use Value-Added Applications and map caches with Development and Deployment Server Licenses.
 
 2.2 License and Subscription Types. Esri provides Products under one or more of the license or subscription types identified in the definitions above. The Documentation and Ordering Documents identify which license or subscription type(s) applies to the ordered Products.
 
@@ -212,7 +211,7 @@ The following glossary of terms applies to all Esri Offerings and Services that 
 
 "Specification(s)" means (i) the Documentation for Software and Online Services, (ii) the scope of work set forth in any Task Order, or (iii) Esri's published course descriptions for Training.
 
-"Subscription" means a license for use of an Esri Offering for a limited time period or a right to receive Services for a limited time period.
+“Subscription” means a license for use of an Esri Offering for a limited time period or a right to receive Services for a limited time period.
 
 "Task Order(s)" means an Ordering Document for Services.
 
@@ -232,7 +231,7 @@ GENERAL TERMS AND CONDITIONS
 
 The following general terms and conditions apply to all Esri Offerings and Services that Esri may offer to its customers. Certain Esri Offerings or Services may not be available under this Agreement. Please disregard any terms that are not applicable to Esri Offerings or Services offered under this Agreement.
 
-ARTICLE B.1—GENERAL USE RESTRICTIONS
+ARTICLE B.1 - GENERAL USE RESTRICTIONS
 
 Except as expressly permitted in this Agreement, Customer will not
 
@@ -256,7 +255,7 @@ l. Generate revenue by providing access to Software or Online Services through a
 
 These restrictions will not apply to the extent that they conflict with applicable law or regulation.
 
-ARTICLE B.2—TERM AND TERMINATION
+ARTICLE B.2 - TERM AND TERMINATION
 
 B.2.1 Customer may terminate this Agreement or any Esri Offerings license or subscription at any time upon written notice to Esri. Termination without cause does not entitle Customer to receive any refund of fees paid. Any right to terminate pending Services engagements for convenience is set forth in the applicable section in the body of this Agreement. Either party may terminate this Agreement or any license or subscription for a material breach that is not cured within 30 days of written notice to the breaching party. Upon any termination of this Agreement for breach, Esri will stop providing Services. Any licenses in Esri Offerings that survive termination of this Agreement continue under the terms of this Agreement.
 
@@ -270,22 +269,23 @@ c. Stop using and uninstall, remove, and destroy all copies of the terminated or
 
 Esri may stop performing Services immediately upon written notice to Customer if a bankruptcy or insolvency proceeding is commenced by or against Customer until the trustee cures any existing defaults and provides adequate assurance of future performance under this Agreement. This Agreement terminates upon the insolvency, liquidation, or dissolution of either party.
 
-ARTICLE B.3—LIMITED WARRANTIES AND DISCLAIMERS
+ARTICLE B.3 - LIMITED WARRANTIES AND DISCLAIMERS
 
 B.3.1 Limited Warranties. Except as disclaimed below, Esri warrants to Customer that (i) Products and Training will substantially comply with the applicable Specifications and (ii) Services will substantially conform to the professional and technical standards of the industry. The warranty period for Esri Offerings offered under a Perpetual License and for Services runs for 90 days from the date of delivery or from the date of acceptance if this Agreement provides an acceptance period. The warranty period for Esri Offerings offered under a subscription or Term License basis runs for the lesser of (i) the duration of the subscription or term or (ii) 90 days from delivery or acceptance if this Agreement provides an acceptance period.
 
 B.3.2 Special Disclaimer. Third-Party Content; Data; Samples; hot fixes; patches; updates; Online Services provided at no charge; and trial, evaluation, and Beta Products are delivered "as is" and without warranty of any kind.
 
-B.3.3 General Disclaimer. Except for the express limited warranties set forth in this Agreement, Esri disclaims all other warranties or conditions of any kind, whether express or implied, including, but not limited to, warranties or conditions of merchantability, fitness for a particular purpose, and noninfringement of intellectual property rights. Esri is not responsible for any nonconformities with Specifications or loss, deletion, modification, or disclosure of Customer Content caused by Customer's modification of any Esri Offering other than as specified in the Documentation. Esri does not warrant that Esri Offerings, or Customer's operation of the same, will be uninterrupted, error free, fault tolerant, or fail-safe or that all nonconformities can or will be corrected. Esri Offerings are not designed, manufactured, or intended for use in environments or applications that may lead to death, personal injury, or physical property or environmental damage. Customer should not follow any navigational route suggestions that appear to be hazardous, unsafe, or illegal. Any such uses will be at Customer's own risk and cost.
+B.3.3 General Disclaimer. Except for the express limited warranties set forth in this Agreement, Esri disclaims all other warranties or conditions of any kind, whether express or implied, including, but not limited to, warranties or conditions of merchantability, fitness for a particular purpose, and noninfringement of intellectual property rights. Esri is not responsible for any nonconformities with Specifications or loss, deletion, modification, or disclosure of Customer Content caused by Customer's modification of any Esri Offering other than as specified in the Documentation. Esri does not warrant that Esri Offerings, or Customer's operation of the same, will be uninterrupted, error free, fault tolerant, or fail-safe or that all nonconformities can or will be corrected, or will result in Customer’s compliance with any applicable law. Esri Offerings are not designed, manufactured, or intended for use in environments or applications that may lead to death, personal injury, or physical property or environmental damage. Customer should not follow any navigational route suggestions that appear to be hazardous, unsafe, or illegal. Any such uses will be at Customer's own risk and cost.
 
 B.3.4 Disclaimers.
 
 a. Internet Disclaimer. Neither party will be liable for damages under any theory of law related to the performance or discontinuance of operation of the Internet or to regulation of the Internet that might restrict or prohibit the operation of Cloud Services.
 b. Third-Party Websites; Third-Party Content. Esri is not responsible for any third-party website or Third-Party Content that appears in or is referenced by Esri Offerings or Esri websites, including www.esri.com, developers.arcgis.com, livingatlas.arcgis.com and www.arcgis.com. Providing links to third-party websites and resources does not imply an endorsement, affiliation, or sponsorship of any kind.
+c. Artificial Intelligence (AI)/Machine Learning (ML) Disclaimer. As specified in the Documentation, certain Esri Offerings may integrate third-party AI/ML software libraries and third-party or Esri created pre-trained AI/ML models for various tasks including, but not limited to, object detection, image obfuscation, image classification, or text or speech recognition. Customer may use these capabilities at its option and such AI/ML capabilities are delivered "as is" and without warranty of any kind. In certain cases, the Esri Offering may provide Customers the ability to configure their own custom AI/ML models to meet Customer’s unique requirements, which except for the express warranties contained in this Agreement, shall be at Customer’s own risk. 
 
 B.3.5 Exclusive Remedy. Customer's exclusive remedy and Esri's entire liability for breach of the limited warranties in this section will be to replace any defective media and to (i) repair, correct, or provide a workaround for the applicable Esri Offering or Services or (ii) at Esri's election, terminate Customer's right to use and refund the fees paid for Esri Offerings or Services that do not meet Esri's limited warranties.
 
-ARTICLE B.4—LIMITATION OF LIABILITY
+ARTICLE B.4 - LIMITATION OF LIABILITY
 
 B.4.1 Disclaimer of Liability. Neither Customer, Esri, nor any Esri authorized distributor or third party licensor will be liable for any indirect, special, incidental, or consequential damages; lost profits; lost sales; loss of goodwill; costs of procurement of substitute goods or services; or damages exceeding the applicable license fees, or current subscription fees, or Services fees paid or owed to Esri for the Esri Offerings or Services giving rise to the cause of action.
 
@@ -295,7 +295,7 @@ B.4.3 Applicability of Disclaimers and Limitations. Esri or its authorized distr
 
 B.4.4 The foregoing disclaimers, limitations, and exclusions may be invalid in some jurisdictions and apply only to the extent permitted by applicable law or regulation in Customer's jurisdiction. Customer may have additional rights that may not be waived or disclaimed. Esri does not seek to limit Customer's warranty or remedies to any extent not permitted by law.
 
-ARTICLE B.5—INDEMNIFICATIONS
+ARTICLE B.5 - INDEMNIFICATIONS
 
 B.5.1 Definitions. The following definitions supplement the definitions provided in Attachment A:
 
@@ -316,7 +316,7 @@ B.5.4 Conditions for Indemnification. As conditions for indemnification, but for
 
 B.5.5 This section sets forth the entire obligation of Esri, its authorized distributor, and its third party licensors regarding any Claim for which Esri must indemnify Customer.
 
-ARTICLE B.6—INSURANCE
+ARTICLE B.6 - INSURANCE
 
 If Esri is providing Services, Esri will carry, at a minimum, the following coverage:
 
@@ -331,7 +331,7 @@ a. Comprehensive general liability or commercial general liability with a minimu
 
 b. Workers' compensation insurance, with waiver of subrogation, in an amount that complies with statutory limits.
 
-ARTICLE B.7—SECURITY AND COMPLIANCE
+ARTICLE B.7 - SECURITY AND COMPLIANCE
 
 B.7.1 Security. Esri publishes its security capabilities at https://trust.arcgis.com. Customer may give Esri personnel access to Customer systems or to Customer or third-party personal information, controlled information, or sensitive data if access is essential for Esri's performance of Services and if Esri expressly agrees to such access. Esri will use reasonable administrative, technical, and physical safeguards to protect such data and guard against unauthorized access. Customer bears responsibility to (i) confirm that Esri's published security and privacy controls meet all applicable legal requirements for protection of Customer Content and (ii) upload or share Customer Content through Cloud Services only when it is legal to do so. Esri is not responsible to review Customer Content to ensure compliance with applicable laws and regulations. Customer must contact Esri at securesupport@esri.com for further instruction before providing any Customer Content that requires security measures other than Esri's published security capabilities.
 
@@ -341,11 +341,11 @@ B.7.3 Export Compliance. Each party will comply with all applicable export and t
 
 B.7.4 Privacy. Esri will process personal data according to the terms of the Data Processing Addendum available at https://www.esri.com/en-us/privacy/overview.
 
-ARTICLE B.8—CLOUD SERVICES
+ARTICLE B.8 - CLOUD SERVICES
 
 B.8.1 Prohibited Uses. Customer shall not provide Customer Content or otherwise access or use Cloud Services in a manner that
 
-a. Creates or transmits spam, spoofings, or phishing email or offensive, hate-related or defamatory material; or stalks or makes threats of physical harm;
+a. Creates or transmits spam, spoofings, or phishing email or offensive, hate related or defamatory material; or stalks or makes threats of physical harm;
 b. Stores or transmits any Malicious Code;
 c. Violates any law or regulation;
 d. Infringes or misappropriates the rights of any third party;
@@ -374,7 +374,7 @@ Esri is not responsible for any damages, liabilities, or losses that may result 
 
 B.8.6 Notice to Esri. Customer will promptly notify Esri if Customer becomes aware of any unauthorized use of Customer's subscription or any other breach of security regarding Cloud Services.
 
-ARTICLE B.9—GENERAL PROVISIONS
+ARTICLE B.9 - GENERAL PROVISIONS
 
 B.9.1 Payment. Customer will pay each correct invoice no later than 30 days after receipt and will remit payment to the address stated on the invoice. Customers outside the United States will pay the authorized distributor's invoices in accordance with the authorized distributor's payment terms.
 
@@ -406,7 +406,7 @@ b. Nongovernment Entities. US federal law and the law of the State of California
 B.9.13 Dispute Resolution. The parties will use the following dispute resolution processes:
 
 a. Equitable Relief. Either party will have the right to seek an injunction, specific performance, or other equitable relief in any court of competent jurisdiction without the requirement of posting a bond or proving injury as a condition for relief.
-b. US Government Agencies. This Agreement is subject to the Contract Disputes Act of 1978, as amended (41 USC 601–613).
+b. US Government Agencies. This Agreement is subject to the Contract Disputes Act of 1978, as amended (41 USC 601-613).
 c. Other Government Entities. Esri will comply with mandatory dispute resolutions under applicable law.
 d. Arbitration. Except as noted above, the parties will submit to binding arbitration to resolve any dispute arising out of or relating to this Agreement that cannot be settled through negotiation. If Customer is in the United States or one of its territories or outlying areas, the Commercial Arbitration Rules of the American Arbitration Association will govern the arbitration proceedings. If Customer is outside the United States, the Rules of Arbitration of the International Chamber of Commerce will govern the proceedings. The parties will select a single arbitrator in accordance with the applicable arbitration rules. The language of the arbitration will be English. Arbitration will be at an agreed-upon location. Either party will, at the request of the other, make available documents or witnesses relevant to the major aspects of the dispute.
 
