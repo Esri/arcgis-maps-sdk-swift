@@ -18,12 +18,12 @@ Try out some of the [tutorials](https://developers.arcgis.com/swift/) or check o
 ### Requirements
 - Xcode 15 or newer
 
-### Resources
-- [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/)
-- [Swift Package Manager](https://swift.org/package-manager/)
-
-### Issues
-Find a bug or want to request a new feature? Please let us know by submitting an issue.
+### Additional Resources
+- Learn more about [Swift Package Manager](https://swift.org/package-manager/)
+- Unfamiliar with SwiftUI? Check out Apple's [SwiftUI documentation](https://developer.apple.com/documentation/swiftui/).
+- Want to start a new project? [Setup](https://developers.arcgis.com/swift/get-started) your development environment
+- New to the API? Explore the documentation: [Guide](https://developers.arcgis.com/swift/) | [API Reference](https://developers.arcgis.com/swift/api-reference/documentation/arcgis/)
+- Got a question? Ask the community on our [forum](https://community.esri.com/t5/swift-maps-sdk-questions/bd-p/swift-maps-sdk-questions)
 
 ### Licensing
 COPYRIGHT © 2023 Esri
