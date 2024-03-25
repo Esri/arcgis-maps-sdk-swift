@@ -6,7 +6,7 @@ This is the package repository for adding __[ArcGIS Maps SDK for Swift](https://
 
 ### Instructions
 1. Open your project in Xcode
-2. Go to _File_ menu > _Add Packages_ option
+2. Go to _File_ menu > _Add Package Dependencies_ option
    ![xcode](./xcode.png)
 3. Enter `https://github.com/Esri/arcgis-maps-sdk-swift` as the package repository URL
 4. Choose a specific version or the latest version. Click Next.
