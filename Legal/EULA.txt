@@ -1,6 +1,6 @@
 ﻿Master Agreement (E204SW)
 
-Revised July 19, 2023
+Revised February 9, 2024
 IMPORTANT - READ CAREFULLY
 
 Unless superseded by a signed license agreement between you and Esri, Esri is willing to provide Esri Offerings and Services to you only if you accept all terms and conditions contained in this Agreement as the sole and final agreement of the parties regarding your acquisition of these Esri Offerings and Services. Please read the terms and conditions carefully. You may not use the Esri Offerings unless you agree to the terms and conditions of the Agreement. Your access and use of Esri Offerings, or Services, constitutes your acceptance of the terms and conditions of this Agreement. If you do not agree, contact your local sales representative prior to making your purchase.
@@ -154,6 +154,7 @@ g. Michael Bauer Research International Boundaries Data ("MBR Data"). Customer's
 5.2 Customers outside the United States. Customers outside of the United States may obtain Services from their local authorized distributor.
 
 
+
 ATTACHMENT A
 GLOSSARY OF TERMS
 
@@ -211,7 +212,7 @@ The following glossary of terms applies to all Esri Offerings and Services that 
 
 "Specification(s)" means (i) the Documentation for Software and Online Services, (ii) the scope of work set forth in any Task Order, or (iii) Esri's published course descriptions for Training.
 
-“Subscription” means a license for use of an Esri Offering for a limited time period or a right to receive Services for a limited time period.
+"Subscription" means a license for use of an Esri Offering for a limited time period or a right to receive Services for a limited time period.
 
 "Task Order(s)" means an Ordering Document for Services.
 
@@ -236,7 +237,7 @@ ARTICLE B.1 - GENERAL USE RESTRICTIONS
 Except as expressly permitted in this Agreement, Customer will not
 
 a. Sell, rent, lease, sublicense, distribute, lend, time-share, or assign Services or Esri Offerings;
-b. Distribute or provide direct access to Services or Esri Offerings to third parties, in whole or in part, including, but not limited to, extensions, components, or DLLs;
+b. Distribute or provide direct access to Services or Esri Offerings to third parties, in whole or in part, including, but not limited to, extensions, components, or Dynamic Link Libraries;
 c. Distribute Authorization Codes to third parties;
 d. Reverse engineer, decompile, or disassemble any Product or Deliverable delivered in compiled form;
 e. Make any attempt to circumvent the technological measure(s) that controls access to or use of Esri Offerings;
@@ -275,21 +276,21 @@ B.3.1 Limited Warranties. Except as disclaimed below, Esri warrants to Customer 
 
 B.3.2 Special Disclaimer. Third-Party Content; Data; Samples; hot fixes; patches; updates; Online Services provided at no charge; and trial, evaluation, and Beta Products are delivered "as is" and without warranty of any kind.
 
-B.3.3 General Disclaimer. Except for the express limited warranties set forth in this Agreement, Esri disclaims all other warranties or conditions of any kind, whether express or implied, including, but not limited to, warranties or conditions of merchantability, fitness for a particular purpose, and noninfringement of intellectual property rights. Esri is not responsible for any nonconformities with Specifications or loss, deletion, modification, or disclosure of Customer Content caused by Customer's modification of any Esri Offering other than as specified in the Documentation. Esri does not warrant that Esri Offerings, or Customer's operation of the same, will be uninterrupted, error free, fault tolerant, or fail-safe or that all nonconformities can or will be corrected, or will result in Customer’s compliance with any applicable law. Esri Offerings are not designed, manufactured, or intended for use in environments or applications that may lead to death, personal injury, or physical property or environmental damage. Customer should not follow any navigational route suggestions that appear to be hazardous, unsafe, or illegal. Any such uses will be at Customer's own risk and cost.
+B.3.3 General Disclaimer. Except for the express limited warranties set forth in this Agreement, Esri disclaims all other warranties or conditions of any kind, whether express or implied, including, but not limited to, warranties or conditions of merchantability, fitness for a particular purpose, and noninfringement of intellectual property rights. Esri is not responsible for any nonconformities with Specifications or loss, deletion, modification, or disclosure of Customer Content caused by Customer's modification of any Esri Offering other than as specified in the Documentation. Esri does not warrant that Esri Offerings, or Customer's operation of the same, will be uninterrupted, error free, fault tolerant, or fail-safe or that all nonconformities can or will be corrected, or will result in Customer's compliance with any applicable law. Esri Offerings are not designed, manufactured, or intended for use in environments or applications that may lead to death, personal injury, or physical property or environmental damage. Customer should not follow any navigational route suggestions that appear to be hazardous, unsafe, or illegal. Any such uses will be at Customer's own risk and cost.
 
 B.3.4 Disclaimers.
 
 a. Internet Disclaimer. Neither party will be liable for damages under any theory of law related to the performance or discontinuance of operation of the Internet or to regulation of the Internet that might restrict or prohibit the operation of Cloud Services.
 b. Third-Party Websites; Third-Party Content. Esri is not responsible for any third-party website or Third-Party Content that appears in or is referenced by Esri Offerings or Esri websites, including www.esri.com, developers.arcgis.com, livingatlas.arcgis.com and www.arcgis.com. Providing links to third-party websites and resources does not imply an endorsement, affiliation, or sponsorship of any kind.
-c. Artificial Intelligence (AI)/Machine Learning (ML) Disclaimer. As specified in the Documentation, certain Esri Offerings may integrate third-party AI/ML software libraries and third-party or Esri created pre-trained AI/ML models for various tasks including, but not limited to, object detection, image obfuscation, image classification, or text or speech recognition. Customer may use these capabilities at its option and such AI/ML capabilities are delivered "as is" and without warranty of any kind. In certain cases, the Esri Offering may provide Customers the ability to configure their own custom AI/ML models to meet Customer’s unique requirements, which except for the express warranties contained in this Agreement, shall be at Customer’s own risk. 
+c. Artificial Intelligence (AI)/Machine Learning (ML) Disclaimer. As specified in the Documentation, certain Esri Offerings may integrate third-party AI/ML software libraries and third-party or Esri created pre-trained AI/ML models for various tasks including, but not limited to, object detection, image obfuscation, image classification, or text or speech recognition. Customer may use these capabilities at its option and such AI/ML capabilities are delivered "as is" and without warranty of any kind. In certain cases, the Esri Offering may provide Customers the ability to configure their own custom AI/ML models to meet Customer's unique requirements, which except for the express warranties contained in this Agreement, shall be at Customer's own risk.
 
 B.3.5 Exclusive Remedy. Customer's exclusive remedy and Esri's entire liability for breach of the limited warranties in this section will be to replace any defective media and to (i) repair, correct, or provide a workaround for the applicable Esri Offering or Services or (ii) at Esri's election, terminate Customer's right to use and refund the fees paid for Esri Offerings or Services that do not meet Esri's limited warranties.
 
 ARTICLE B.4 - LIMITATION OF LIABILITY
 
-B.4.1 Disclaimer of Liability. Neither Customer, Esri, nor any Esri authorized distributor or third party licensor will be liable for any indirect, special, incidental, or consequential damages; lost profits; lost sales; loss of goodwill; costs of procurement of substitute goods or services; or damages exceeding the applicable license fees, or current subscription fees, or Services fees paid or owed to Esri for the Esri Offerings or Services giving rise to the cause of action.
+B.4.1 Disclaimer of Liability. (a) Neither Customer, Esri, nor any Esri authorized distributor or third-party licensor will be liable for any indirect, special, incidental, or consequential damages; lost profits; lost sales; loss of goodwill; or costs of procurement of substitute goods or services (b) Neither Customer, Esri nor any Esri authorized distributor or third-party licensor will be liable for any direct damages exceeding the applicable license fees, or current subscription fees, or Services fees paid or owed to Esri during the twelve (12) month period prior to the date upon which the related claim arose.
 
-B.4.2 The limitations and exclusions of liability in the preceding paragraph do not apply to Customer's infringement, misuse, or misappropriation of Esri's or Esri's licensors' intellectual property rights, either party's indemnification obligations, gross negligence, willful misconduct, or violations of the Export Compliance clause of this Agreement or any applicable law or regulation.
+B.4.2 The limitations and exclusions of liability in the preceding paragraph do not apply to Customer's infringement, misuse, or misappropriation of Esri's or Esri's licensors' intellectual property rights, either party's indemnification obligations, gross negligence, willful misconduct, or violations of the Export Compliance clause of this Agreement.
 
 B.4.3 Applicability of Disclaimers and Limitations. Esri or its authorized distributor has set its fees and entered into this Agreement in reliance on the disclaimers and limitations in this Agreement; the fees reflect an allocation of risk that is an essential basis of the bargain between the parties. These limitations will apply whether or not a party is aware of the possibility of any damage and notwithstanding any failure of essential purpose of any exclusive, limited remedy.
 
@@ -312,7 +313,7 @@ c. Esri has no obligation to defend an Infringement Claim or to indemnify Custom
 
 B.5.3 General Indemnity. Esri will defend and hold all Indemnitees harmless from, and indemnify any Loss arising out of, any Claim for bodily injury, death, or tangible or real property damage brought against any of the Indemnitees to the extent arising from any negligent act or omission or willful misconduct by Esri or its directors, officers, employees, or agents performing Services while on Customer's site.
 
-B.5.4 Conditions for Indemnification. As conditions for indemnification, but for those defined as Infringement Claims (see B.5.2 c.), Indemnitee will (i) promptly notify Esri in writing of the Claim, (ii) provide all available documents describing the Claim, (iii) give Esri sole control of the defense of any action and negotiation related to the defense or settlement of any Claim, and (iv) reasonably cooperate in the defense of the Claim at Esri's request and expense.
+B.5.4 Conditions for Indemnification. As conditions for indemnification, Indemnitee will (i) promptly notify Esri in writing of the Claim, (ii) provide all available documents describing the Claim, (iii) give Esri sole control of the defense of any action and negotiation related to the defense or settlement of any Claim, and (iv) reasonably cooperate in the defense of the Claim at Esri's request and expense.
 
 B.5.5 This section sets forth the entire obligation of Esri, its authorized distributor, and its third party licensors regarding any Claim for which Esri must indemnify Customer.
 
@@ -382,7 +383,7 @@ B.9.2 Feedback. Esri may freely use any feedback, suggestions, or requests for P
 
 B.9.3 Patents. Customer may not seek, and may not permit any other user to seek, a patent or similar right worldwide that is based on or incorporates any Products. This express prohibition on patenting will not apply to Customer's software and technology except to the extent that Products, or any portion thereof, are part of any claim or preferred embodiment in a patent application or a similar application.
 
-B.9.4 Restrictions on Solicitation. Neither party will solicit for hire any employee of the other party who is associated with the performance of Services during the performance of the Services and for a period of 1 year thereafter. This does not restrict either party from publicly advertising positions for hire in newspapers, professional magazines, or Internet postings.
+B.9.4 Reserved.
 
 B.9.5 Taxes and Fees; Shipping Charges. Pricing of Esri Offerings and Services that Esri quotes to Customer is exclusive of any and all applicable taxes or fees including, but not limited to, sales tax, use tax, or value-added tax (VAT); customs, duties, or tariffs; shipping and handling charges; and vendor enrollment fees. Esri will add any fees that it is required to pay to the total amount of its invoice to Customer. Esri may include estimated taxes and shipping and handling charges in its quotations but may adjust these fees on invoicing. For Customers outside the United States, the authorized distributor may quote taxes or fees in accordance with its own policies.
 
@@ -396,7 +397,7 @@ B.9.9 Successor and Assigns. Customer will not assign, sublicense, or transfer C
 
 B.9.10 Survival of Terms. The Glossary of Terms and provisions of the following Articles of these General Terms and Conditions will survive the expiration or termination of this Agreement: "Limited Warranties and Disclaimers," "Limitation of Liability," "Indemnifications," and "General Provisions."
 
-B.9.11 US Government Customer. The Products are commercial items, developed at private expense, provided to Customer under this Agreement. If Customer is a US government entity or US government contractor, Esri licenses or provides subscriptions to Customer in accordance with this Agreement under FAR Subparts 12.211/12.212 or DFARS Subpart 227.7202. Esri Data and Online Services are licensed or subscribed under the same DFARS Subpart 227.7202 policy as commercial computer software for acquisitions made under DFARS. Products are subject to restrictions, and this Agreement strictly governs Customer's use, modification, performance, reproduction, release, display, or disclosure of Products. Agreement provisions that are inconsistent with federal law regulation will not apply. A US government Customer may transfer Software to any of its facilities to which it transfers the computer(s) on which it has installed such Software. If any court, arbitrator, or board holds that a US government Customer has greater rights to any portion of Products under applicable public procurement law, such rights will extend only to the portions affected. ArcGIS Online has been granted FedRAMP tailored low authorization but does not meet higher security requirements including those found in DFARS 252.239-7010.
+B.9.11 US Government Customer. The Products are commercial items, developed at private expense, provided to Customer under this Agreement. If Customer is a US government entity or US government contractor, Esri licenses or provides subscriptions to Customer in accordance with this Agreement under FAR Subparts 12.211/12.212 or DFARS Subpart 227.7202. Esri Data and Online Services are licensed or subscribed under the same DFARS Subpart 227.7202 policy as commercial computer software for acquisitions made under DFARS. Products are subject to restrictions, and this Agreement strictly governs Customer's use, modification, performance, reproduction, release, display, or disclosure of Products. Agreement provisions that are inconsistent with federal law regulation will not apply. A US government Customer may transfer Software to any of its facilities to which it transfers the computer(s) on which it has installed such Software. If any court, arbitrator, or board holds that a US government Customer has greater rights to any portion of Products under applicable public procurement law, such rights will extend only to the portions affected.
 
 B.9.12 Governing Law. This Agreement is not subject to the United Nations Convention on Contracts for the International Sale of Goods.
 
@@ -423,4 +424,6 @@ B.9.16 Notice. Customer may send notices required under this Agreement to Esri a
     USA
     Tel.: 909-793-2853
     Email: LegalNotices@esri.com
+
+  
 
