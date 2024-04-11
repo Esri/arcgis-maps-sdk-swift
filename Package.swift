@@ -37,13 +37,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ArcGIS",
-            url: "https://gisupdates.esri.com/ArcGIS_MapsSDK/200.3.0/ArcGIS-Swift-v200.3.xcframework.zip",
-            checksum: "d4832b819b15240b44df61f7eb6f5bf8539814a5b2c0fe87bdc30cb11d6ffac6"
+            url: "https://gisupdates.esri.com/ArcGIS_MapsSDK/200.4.0/ArcGIS-Swift-v200.4.xcframework.zip",
+            checksum: "0e95d0798f2a79138b2a5ab60ba8ba6e326126b8fc8aee36308715fee6b8dfcf"
         ),
         .binaryTarget(
             name: "CoreArcGIS",
-            url: "https://gisupdates.esri.com/ArcGIS_MapsSDK/200.3.0/CoreArcGIS-Swift-v200.3.xcframework.zip",
-            checksum: "1297c10ffc72927317ac2765ce3a8520e2755bc6a4c600f033a6a215030a5027"
+            url: "https://gisupdates.esri.com/ArcGIS_MapsSDK/200.4.0/CoreArcGIS-Swift-v200.4.xcframework.zip",
+            checksum: "6037308785039c1e2486c4b975001fcf24cab4f3cd7e25e8535a8630e66c4e87"
         )
     ]
 )
