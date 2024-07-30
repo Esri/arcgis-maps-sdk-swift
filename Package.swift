@@ -1,4 +1,4 @@
-// swift-tools-version: 5.7
+// swift-tools-version: 5.9
 //
 // COPYRIGHT 1995-2022 ESRI
 //
@@ -25,8 +25,8 @@ import PackageDescription
 let package = Package(
     name: "arcgis-maps-sdk-swift",
     platforms: [
-        .iOS(.v15),
-        .macCatalyst(.v15)
+        .iOS(.v16),
+        .macCatalyst(.v16)
     ],
     products: [
         .library(
