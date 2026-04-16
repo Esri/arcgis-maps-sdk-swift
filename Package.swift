@@ -1,5 +1,3 @@
-// swift-tools-version: 6.2
-//
 // COPYRIGHT 1995-2022 ESRI
 //
 // All rights reserved under the copyright laws of the United States
@@ -19,6 +17,8 @@
 // 380 New York Street
 // Redlands, California, USA 92373
 // email: contracts@esri.com
+
+// swift-tools-version: 6.2
 
 import PackageDescription
 
