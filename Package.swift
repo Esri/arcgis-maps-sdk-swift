@@ -1,5 +1,3 @@
-// swift-tools-version: 6.0
-//
 // COPYRIGHT 1995-2022 ESRI
 //
 // All rights reserved under the copyright laws of the United States
@@ -20,6 +18,8 @@
 // Redlands, California, USA 92373
 // email: contracts@esri.com
 
+// swift-tools-version: 6.2
+
 import PackageDescription
 
 let package = Package(
@@ -32,19 +32,14 @@ let package = Package(
     products: [
         .library(
             name: "ArcGIS",
-            targets: ["ArcGIS", "CoreArcGIS"]
+            targets: ["ArcGIS"]
         )
     ],
     targets: [
         .binaryTarget(
             name: "ArcGIS",
-            url: "https://gisupdates.esri.com/ArcGIS_MapsSDK/200.8.1/ArcGIS-Swift-v200.8.1.xcframework.zip",
-            checksum: "67f493669eecbef71c26eb04061d53b9b9c2ab04563dd1363c8838706c08eac0"
-        ),
-        .binaryTarget(
-            name: "CoreArcGIS",
-            url: "https://gisupdates.esri.com/ArcGIS_MapsSDK/200.8.1/CoreArcGIS-Swift-v200.8.1.xcframework.zip",
-            checksum: "c82db848a8fda7bbdc6e04db78c4fc66478e779457087e4fb1b07830a3fce501"
+            url: "https://gisupdates.esri.com/ArcGIS_MapsSDK/300.0.0/ArcGIS-Swift-v300.0.xcframework.zip",
+            checksum: "33d66bafbd5c6baca97cd9bdf1bd10e758696523d07fae32dc6c798b39a199cf"
         )
     ]
 )

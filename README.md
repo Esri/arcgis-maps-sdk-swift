@@ -19,7 +19,7 @@ That's it. ArcGIS Maps SDK for Swift has been integrated into your project as a 
 Try out some of the [tutorials](https://developers.arcgis.com/swift/) or check out the [samples](https://github.com/Esri/arcgis-maps-sdk-swift-samples). In addition, check out the [toolkit](https://github.com/Esri/arcgis-maps-sdk-swift-toolkit) for some components that will simplify your iOS app development.
 
 ### Requirements
-- Xcode 16.4 or newer
+- Xcode 26.0 or newer
 
 ### Additional Resources
 - Learn more about [Swift Package Manager](https://swift.org/package-manager/)
@@ -29,13 +29,13 @@ Try out some of the [tutorials](https://developers.arcgis.com/swift/) or check o
 - Got a question? Ask the community on our [forum](https://community.esri.com/t5/swift-maps-sdk-questions/bd-p/swift-maps-sdk-questions)
 
 ### Licensing
-COPYRIGHT © 2022-2025 Esri
+COPYRIGHT © 2022-2026 Esri
 
 All rights reserved under the copyright laws of the United States and applicable international laws, treaties, and conventions.
 
 This material is licensed for use under the Esri Master License Agreement (MLA), and is bound by the terms of that agreement. You may redistribute and use this code without modification, provided you adhere to the terms of the MLA and include this copyright notice.
 
-See use restrictions at [legal/EULA.txt](Legal/EULA.txt)
+See use restrictions at [legal/EULA.pdf](Legal/EULA.pdf)
 
 For additional information, contact: Environmental Systems Research Institute, Inc. Attn: Contracts and Legal Services Department 380 New York Street Redlands, California, USA 92373 USA
 
