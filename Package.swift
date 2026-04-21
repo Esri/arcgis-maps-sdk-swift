@@ -38,7 +38,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ArcGIS",
-            url: "https://gisupdates.esri.com/ArcGIS_MapsSDK/300.0.0/ArcGIS-Swift-v300.0.0.xcframework.zip",
+            url: "https://gisupdates.esri.com/ArcGIS_MapsSDK/300.0.0/ArcGIS-Swift-v300.0.xcframework.zip",
             checksum: "33d66bafbd5c6baca97cd9bdf1bd10e758696523d07fae32dc6c798b39a199cf"
         )
     ]
