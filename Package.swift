@@ -32,7 +32,7 @@ let package = Package(
     products: [
         .library(
             name: "ArcGIS",
-            targets: ["ArcGIS", "CoreArcGIS"]
+            targets: ["ArcGIS"]
         )
     ],
     targets: [
