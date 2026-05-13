@@ -29,7 +29,7 @@ Try out some of the [tutorials](https://developers.arcgis.com/swift/) or check o
 - Got a question? Ask the community on our [forum](https://community.esri.com/t5/swift-maps-sdk-questions/bd-p/swift-maps-sdk-questions)
 
 ### Licensing
-COPYRIGHT © 2022-2025 Esri
+COPYRIGHT © 2022-2026 Esri
 
 All rights reserved under the copyright laws of the United States and applicable international laws, treaties, and conventions.
 
