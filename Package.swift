@@ -25,8 +25,8 @@ import PackageDescription
 let package = Package(
     name: "arcgis-maps-sdk-swift",
     platforms: [
-        .iOS(.v17),
-        .macCatalyst(.v17),
+        .iOS(.v18),
+        .macCatalyst(.v18),
         .visionOS(.v2)
     ],
     products: [
