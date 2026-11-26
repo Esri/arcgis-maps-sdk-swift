@@ -18,7 +18,7 @@
 // Redlands, California, USA 92373
 // email: contracts@esri.com
 
-// swift-tools-version: 6.2
+// swift-tools-version: 6.4
 
 import PackageDescription
 
@@ -38,8 +38,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ArcGIS",
-            url: "https://gisupdates.esri.com/ArcGIS_MapsSDK/300.1.0/ArcGIS-Swift-v300.1.xcframework.zip",
-            checksum: "c6d5bef8a22c23c3c39a9e2cdf4fc2712dd209fc18746f583e7fbb94512868e5"
+            url: "https://gisupdates.esri.com/ArcGIS_MapsSDK/300.2.0/ArcGIS-Swift-v300.2.xcframework.zip",
+            checksum: "26e71b480ae3148ba917746f9272e22b917985ebb132b1129594621f6b7c3842"
         )
     ]
 )
